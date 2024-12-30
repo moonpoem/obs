@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a84c75d3faf93019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "725e5734f6a2ffd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据分析/医院审计/2.收入与成本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.收入与成本"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecfdc51e2751209c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11eb265c312c782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c143e28d01200cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8a31f9933ed88fda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a733c57dfbc8c42a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "022b2a4d880e2cc6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "f6952091a3a2483c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eb5e5fe28d2b36f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5821dbbcc8369ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据分析/医院审计/4.盈利能力分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "4.盈利能力分析 的反向链接列表"
+            }
+          },
+          {
+            "id": "b9adb1ad258ac65c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据分析/医院审计/4.盈利能力分析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "4.盈利能力分析 的出链列表"
+            }
+          },
+          {
+            "id": "e17aadb3f39969ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cd263924ee09fe92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据分析/医院审计/2.收入与成本.md"
+              },
+              "icon": "lucide-list",
+              "title": "2.收入与成本 的大纲"
+            }
+          },
+          {
+            "id": "065ad0d2b4f6ff11",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "587fbe7aaf4b4276",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fe44492a78ed2232",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "9ed05097469c2bc4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "6a8376f17d3abc1f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:创建新看板": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "725e5734f6a2ffd0",
+  "lastOpenFiles": [
+    "数据分析/医院审计/3.盈利能力.md",
+    "数据分析/医院审计/13.外部市场与竞争力分析.md",
+    "数据分析/医院审计/11.创新与科研能力.md",
+    "数据分析/医院审计/10.业务风险与合规.md",
+    "数据分析/医院审计/1.资产与负债.md",
+    "数据分析/医院审计/0.指引目录.md",
+    "审计标准化手册/信息技术审计/2.风险与合规管理.md",
+    "审计标准化手册/信息技术审计/1.IT治理与战略.md",
+    "审计标准化手册/信息技术审计/0.信息技术审计框架.md",
+    "审计标准化手册/信息技术审计/COBIT框架.md",
+    "审计标准化手册/信息技术审计/审计监控机制.md",
+    "审计标准化手册/信息技术审计/制度与行业规范.md",
+    "审计标准化手册/信息技术审计/6.数据管理与治理.md",
+    "审计标准化手册/信息技术审计/信息技术审计.md",
+    "数据分析/医院审计/12.跨院区协同效率.md",
+    "数据分析/医院审计/9.环境与可持续发展.md",
+    "数据分析/医院审计/8.数字化转型与信息系统效率.md",
+    "数据分析/医院审计/7.医疗质量与患者满意度.md",
+    "数据分析/医院审计/6.人力资源管理.md",
+    "数据分析/医院审计/5.资源与运营效率.md",
+    "数据分析/医院审计/4.可持续性.md",
+    "数据分析/医院审计/2.收入与成本.md",
+    "数据分析/医院审计/投资回报.md",
+    "数据分析/数据分析.md",
+    "program/project/项目集.md",
+    "Vault.md",
+    "files",
+    "未命名.canvas",
+    "Excalidraw",
+    "审计标准化手册/信息技术审计 2",
+    "Tags",
+    "数据分析/医院审计/未命名",
+    "数据分析/医院审计",
+    "数据分析",
+    "审计标准化手册/信息技术审计.zip",
+    "DALL·E 2024-04-07 14.28.12 - Design a logo that vividly depicts a full moon rising from the ocean's horizon, contained within a circular outline. The scene inside the circle shoul.webp",
+    "审计标准化手册/医疗审计/9.持续改进与绩效",
+    "审计标准化手册/医疗审计/8.患者体验与服务质量",
+    "Home.canvas",
+    "首页.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

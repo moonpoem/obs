@@ -1,0 +1,226 @@
+{
+  "workspaces": {
+    "20241226": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-space",
+                  "state": {
+                    "path": "数据分析/医院审计"
+                  },
+                  "icon": "lucide-file",
+                  "title": "医院审计"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ecfdc51e2751209c",
+        "type": "split",
+        "children": [
+          {
+            "id": "d11eb265c312c782",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c143e28d01200cd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "8a31f9933ed88fda",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "a733c57dfbc8c42a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "c728541477e0b598",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Spaces"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 276.5
+      },
+      "right": {
+        "id": "f6952091a3a2483c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6eb5e5fe28d2b36f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5821dbbcc8369ca",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "数据分析/医院审计/4.盈利能力分析.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "4.盈利能力分析 的反向链接列表"
+                }
+              },
+              {
+                "id": "b9adb1ad258ac65c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "数据分析/医院审计/4.盈利能力分析.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "4.盈利能力分析 的出链列表"
+                }
+              },
+              {
+                "id": "e17aadb3f39969ce",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "cd263924ee09fe92",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {},
+                  "icon": "lucide-list",
+                  "title": "大纲"
+                }
+              },
+              {
+                "id": "065ad0d2b4f6ff11",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "587fbe7aaf4b4276",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "fe44492a78ed2232",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "9ed05097469c2bc4",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo List"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 263.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-kanban:创建新看板": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false,
+          "markdown-importer:打开 Markdown 格式转换器": false
+        }
+      },
+      "active": "e7a7b303c61786dc",
+      "mtime": "2024-12-26T10:07:32+08:00"
+    }
+  },
+  "active": "20241226"
+}
