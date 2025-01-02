@@ -25,14 +25,12 @@
             "id": "d377f30aa78a893c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "数据分析/医院审计/3.盈利能力.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/数据分析模型.md"
               },
-              "icon": "lucide-file",
-              "title": "3.盈利能力"
+              "icon": "excalidraw-icon",
+              "title": "数据分析模型"
             }
           },
           {
@@ -179,10 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据分析/医院审计/3.盈利能力.md"
+                "file": "Excalidraw/数据分析模型.md"
               },
               "icon": "lucide-list",
-              "title": "3.盈利能力 的大纲"
+              "title": "数据分析模型 的大纲"
             }
           },
           {
@@ -261,12 +259,12 @@
   },
   "active": "d377f30aa78a893c",
   "lastOpenFiles": [
-    "数据分析/医院审计/4.可持续性.md",
+    "Excalidraw/数据分析模型.md",
     "数据分析/医院审计/3.盈利能力.md",
+    "数据分析/医院审计/4.可持续性.md",
     "数据分析/医院审计/2.收入与成本.md",
     "数据分析/医院审计/0.指引目录.md",
     "数据分析/医院审计/1.资产与负债.md",
-    "Excalidraw/Drawing 2025-01-02 09.41.40.excalidraw.md",
     "课题研究.md",
     "数据分析/医院审计/13.外部市场与竞争力分析.md",
     "审计标准化手册/信息技术审计/0.信息技术审计框架.md",
