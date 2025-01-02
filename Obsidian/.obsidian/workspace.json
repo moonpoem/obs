@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -230,7 +230,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "fe44492a78ed2232",
+  "active": "725e5734f6a2ffd0",
   "lastOpenFiles": [
     "数据分析/医院审计/2.收入与成本.md",
     "数据分析/医院审计/0.指引目录.md",
