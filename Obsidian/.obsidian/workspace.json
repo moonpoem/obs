@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "课题研究"
             }
+          },
+          {
+            "id": "d377f30aa78a893c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-02 09.41.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-02 09.41.40.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课题研究.md"
+                "file": "Excalidraw/Drawing 2025-01-02 09.41.40.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "课题研究 的大纲"
+              "title": "Drawing 2025-01-02 09.41.40.excalidraw 的大纲"
             }
           },
           {
@@ -230,13 +243,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "725e5734f6a2ffd0",
+  "active": "d377f30aa78a893c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-02 09.41.40.excalidraw.md",
+    "课题研究.md",
+    "Excalidraw",
     "数据分析/医院审计/0.指引目录.md",
     "数据分析/医院审计/2.收入与成本.md",
     "数据分析/医院审计/11.创新与科研能力.md",
     "数据分析/医院审计/1.资产与负债.md",
-    "课题研究.md",
     "Tags/Tags.md",
     "数据分析/数据分析.md",
     "审计标准化手册/医院审计/0.医院审计.md",
@@ -257,10 +272,8 @@
     "数据分析/医院审计/4.可持续性.md",
     "数据分析/医院审计/3.盈利能力.md",
     "审计标准化手册/信息技术审计/2.风险与合规管理.md",
-    "审计标准化手册/信息技术审计/1.IT治理与战略.md",
     "files",
     "未命名.canvas",
-    "Excalidraw",
     "审计标准化手册/信息技术审计 2",
     "Tags",
     "数据分析/医院审计/未命名",
