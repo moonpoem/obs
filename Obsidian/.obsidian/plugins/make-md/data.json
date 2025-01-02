@@ -50,12 +50,10 @@
     "Excalidraw",
     "//项目",
     "//program/program/项目",
-    "//program/program/project",
     "//审计标准化手册/审计标准化手册/保险审计",
     "/",
     "//数据分析",
-    "//数据分析/数据分析/医院审计",
-    "//program"
+    "//数据分析/数据分析/医院审计"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
