@@ -25,44 +25,18 @@
             "id": "d377f30aa78a893c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/数据分析模型.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "数据分析模型"
-            }
-          },
-          {
-            "id": "bed1309f7a768148",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "审计标准化手册/信息技术审计/行业规范.md",
+                "file": "审计标准化手册/信息技术审计/制度：《银行保险机构数据安全管理办法》金规〔2024〕24号.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行业规范"
-            }
-          },
-          {
-            "id": "e4b409cb188bbffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "审计标准化手册/信息技术审计/监管制度.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "监管制度"
+              "title": "制度：《银行保险机构数据安全管理办法》金规〔2024〕24号"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 316.5
   },
   "right": {
     "id": "f6952091a3a2483c",
@@ -191,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "审计标准化手册/信息技术审计/监管制度.md"
+                "file": "审计标准化手册/信息技术审计/制度：《银行保险机构数据安全管理办法》金规〔2024〕24号.md"
               },
               "icon": "lucide-list",
-              "title": "监管制度 的大纲"
+              "title": "制度：《银行保险机构数据安全管理办法》金规〔2024〕24号 的大纲"
             }
           },
           {
@@ -271,20 +245,28 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e4b409cb188bbffa",
+  "active": "d377f30aa78a893c",
   "lastOpenFiles": [
-    "审计标准化手册/信息技术审计/行业规范.md",
+    "审计标准化手册/信息技术审计/制度解读：《银行保险机构数据安全管理办法》金规〔2024〕24号.md",
+    "审计标准化手册/信息技术审计/制度：《银行保险机构数据安全管理办法》金规〔2024〕24号.md",
     "审计标准化手册/信息技术审计/监管制度.md",
+    "审计标准化手册/信息技术审计/信息技术审计.md",
+    "制度/制度.md",
+    "课题研究.md",
+    "Excalidraw/数据分析模型.md",
+    "().md",
+    "Tags/Tags.md",
+    "制度",
+    "审计标准化手册/信息技术审计/行业规范.md",
+    "files/国家金融监督管理总局关于印发银行保险机构数据安全管理办法的通知_国务院部门文件_中国政府网.pdf",
+    "国家金融监督管理总局关于印发银行保险机构数据安全管理办法的通知_国务院部门文件_中国政府网 1.pdf",
     "审计标准化手册/信息技术审计/审计监控机制.md",
     "审计标准化手册/信息技术审计/COBIT框架.md",
-    "审计标准化手册/信息技术审计/信息技术审计.md",
     "数据分析/医院审计/0.指引目录.md",
-    "Excalidraw/数据分析模型.md",
     "数据分析/医院审计/3.盈利能力.md",
     "数据分析/医院审计/4.可持续性.md",
     "数据分析/医院审计/2.收入与成本.md",
     "数据分析/医院审计/1.资产与负债.md",
-    "课题研究.md",
     "数据分析/医院审计/13.外部市场与竞争力分析.md",
     "审计标准化手册/信息技术审计/0.信息技术审计框架.md",
     "审计标准化手册/信息技术审计/6.业务连续性与灾难恢复.md",
@@ -294,12 +276,7 @@
     "审计标准化手册/信息技术审计/2.风险与合规管理.md",
     "审计标准化手册/信息技术审计/1.IT治理与战略.md",
     "审计标准化手册/信息技术审计/8.第三方管理（供应商与外包）.md",
-    "审计标准化手册/信息技术审计/7.系统开发与维护.md",
-    "审计标准化手册/信息技术审计/9.监控与改进.md",
     "Excalidraw",
-    "数据分析/医院审计/11.创新与科研能力.md",
-    "Tags/Tags.md",
-    "数据分析/数据分析.md",
     "files",
     "未命名.canvas",
     "审计标准化手册/信息技术审计 2",
@@ -307,10 +284,7 @@
     "数据分析/医院审计/未命名",
     "数据分析/医院审计",
     "数据分析",
-    "审计标准化手册/信息技术审计.zip",
     "DALL·E 2024-04-07 14.28.12 - Design a logo that vividly depicts a full moon rising from the ocean's horizon, contained within a circular outline. The scene inside the circle shoul.webp",
-    "审计标准化手册/医疗审计/9.持续改进与绩效",
-    "审计标准化手册/医疗审计/8.患者体验与服务质量",
     "Home.canvas",
     "首页.canvas",
     "未命名 2.canvas",
