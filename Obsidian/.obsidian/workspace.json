@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创业项目/创业项目-水果加工.md",
+                "file": "创业项目/创业项目-山野果干.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创业项目-水果加工"
+              "title": "创业项目-山野果干"
             }
           }
         ],
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创业项目/创业项目-水果加工.md"
+                "file": "创业项目/创业项目-山野果干.md"
               },
               "icon": "lucide-list",
-              "title": "创业项目-水果加工 的大纲"
+              "title": "创业项目-山野果干 的大纲"
             }
           },
           {
@@ -245,9 +245,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "065ad0d2b4f6ff11",
+  "active": "f1f958f6809b4b4b",
   "lastOpenFiles": [
-    "创业项目/创业项目-水果加工.md",
+    "创业项目/创业项目-山野果干.md",
     "创业项目/创业项目.md",
     "创业项目/.md",
     "建立以数据分析为基础的医养审计模式.md",
