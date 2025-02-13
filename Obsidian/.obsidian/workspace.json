@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "绩效审计数据管理（培训）.md",
+                "file": "数据分析/医院审计/收入与成本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绩效审计数据管理（培训）"
+              "title": "收入与成本"
             }
           }
         ],
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绩效审计数据管理（培训）.md"
+                "file": "数据分析/医院审计/收入与成本.md"
               },
               "icon": "lucide-list",
-              "title": "绩效审计数据管理（培训） 的大纲"
+              "title": "收入与成本 的大纲"
             }
           },
           {
@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -245,8 +245,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "f1f958f6809b4b4b",
+  "active": "cd263924ee09fe92",
   "lastOpenFiles": [
+    "绩效审计数据管理（培训）.md",
     "建立以数据分析为基础的医养审计模式.md",
     "数据分析/医院审计/人力资源管理.md",
     "数据分析/医院审计/盈利能力与可持续性.md",
@@ -272,7 +273,6 @@
     "野山果干/初步测算表.md",
     "野山果干/山野果干.md",
     "野山果干/野山果干.md",
-    "program/审计底稿模版数据库设计.md",
     "野山果干",
     "Tags",
     "数据分析/养老审计",
