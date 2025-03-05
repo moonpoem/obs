@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/2025年3月5日.md",
+                "file": "工作日志/本周工作日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年3月5日"
+              "title": "本周工作日志"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作日志/2025年3月5日.md"
+                "file": "工作日志/本周工作日志.md"
               },
               "icon": "lucide-list",
-              "title": "2025年3月5日 的大纲"
+              "title": "本周工作日志 的大纲"
             }
           },
           {
@@ -151,18 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "6a8376f17d3abc1f",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -186,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,10 +197,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bc146e9c925e77fd",
+  "active": "fe44492a78ed2232",
   "lastOpenFiles": [
+    "工作日志/本周工作日志.md",
     "绩效审计数据管理（培训）.md",
-    "工作日志/2025年3月5日.md",
     "工作日志",
     "建立以数据分析为基础的医养审计模式.md",
     "野山果干/野山果干.md",
