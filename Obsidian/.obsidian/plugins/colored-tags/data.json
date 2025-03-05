@@ -10,7 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "DeepSeek": 1
+    "DeepSeek": 1,
+    "excalidraw": 2
   },
   "_version": 3
 }
